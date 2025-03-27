@@ -1,0 +1,9 @@
+{
+  "name": "Telegram Auto Filter Bot",
+  "description": "A bot that automatically filters and stores files",
+  "repository": "https://github.com/YOUR-USERNAME/telegram-auto-filter-bot",
+  "keywords": ["telegram", "bot", "auto-filter"],
+  "buildpacks": [
+    { "url": "heroku/python" }
+  ]
+}
